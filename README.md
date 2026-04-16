@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YIM2UL2ET)](https://solved.ac/YIM2UL2ET)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YIM2UL2ET)](https://solved.ac/yim2ul2et)
 
 ## Skills and Tools
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
